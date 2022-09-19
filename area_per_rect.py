@@ -7,13 +7,13 @@
 
 
 def main():
-    # This function calculates the area and perimeter 
+    # This function calculates the area and perimeter
     print("If the rectangle has the dimensions:")
     print("57cm x 19cm")
     print()
-    print("The Area is {}cm^2". format(57*19))
-    print("The Perimeter is {}cm". format(2*(57+19)))
+    print("The Area is {}cm^2".format(57 * 19))
+    print("The Perimeter is {}cm".format(2 * (57 + 19)))
 
 
 if __name__ == "__main__":
-  main()
+    main()
